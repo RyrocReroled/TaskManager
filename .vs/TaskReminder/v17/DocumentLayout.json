@@ -1,0 +1,395 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Felipe\\Documents\\Apps\\TaskReminder\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8C3EDADC-ADD2-4698-BE06-B20DCCBC6B1F}|TaskReminder\\TaskReminder.csproj|c:\\users\\felipe\\documents\\apps\\taskreminder\\taskreminder\\newtask.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C3EDADC-ADD2-4698-BE06-B20DCCBC6B1F}|TaskReminder\\TaskReminder.csproj|solutionrelative:taskreminder\\newtask.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C3EDADC-ADD2-4698-BE06-B20DCCBC6B1F}|TaskReminder\\TaskReminder.csproj|c:\\users\\felipe\\documents\\apps\\taskreminder\\taskreminder\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C3EDADC-ADD2-4698-BE06-B20DCCBC6B1F}|TaskReminder\\TaskReminder.csproj|solutionrelative:taskreminder\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C3EDADC-ADD2-4698-BE06-B20DCCBC6B1F}|TaskReminder\\TaskReminder.csproj|c:\\users\\felipe\\documents\\apps\\taskreminder\\taskreminder\\classes\\notificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C3EDADC-ADD2-4698-BE06-B20DCCBC6B1F}|TaskReminder\\TaskReminder.csproj|solutionrelative:taskreminder\\classes\\notificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C3EDADC-ADD2-4698-BE06-B20DCCBC6B1F}|TaskReminder\\TaskReminder.csproj|c:\\users\\felipe\\documents\\apps\\taskreminder\\taskreminder\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8C3EDADC-ADD2-4698-BE06-B20DCCBC6B1F}|TaskReminder\\TaskReminder.csproj|solutionrelative:taskreminder\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C3EDADC-ADD2-4698-BE06-B20DCCBC6B1F}|TaskReminder\\TaskReminder.csproj|c:\\users\\felipe\\documents\\apps\\taskreminder\\taskreminder\\platforms\\android\\mainactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C3EDADC-ADD2-4698-BE06-B20DCCBC6B1F}|TaskReminder\\TaskReminder.csproj|solutionrelative:taskreminder\\platforms\\android\\mainactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C3EDADC-ADD2-4698-BE06-B20DCCBC6B1F}|TaskReminder\\TaskReminder.csproj|c:\\users\\felipe\\documents\\apps\\taskreminder\\taskreminder\\platforms\\android\\mainapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C3EDADC-ADD2-4698-BE06-B20DCCBC6B1F}|TaskReminder\\TaskReminder.csproj|solutionrelative:taskreminder\\platforms\\android\\mainapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C3EDADC-ADD2-4698-BE06-B20DCCBC6B1F}|TaskReminder\\TaskReminder.csproj|c:\\users\\felipe\\documents\\apps\\taskreminder\\taskreminder\\classes\\taskentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C3EDADC-ADD2-4698-BE06-B20DCCBC6B1F}|TaskReminder\\TaskReminder.csproj|solutionrelative:taskreminder\\classes\\taskentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C3EDADC-ADD2-4698-BE06-B20DCCBC6B1F}|TaskReminder\\TaskReminder.csproj|c:\\users\\felipe\\documents\\apps\\taskreminder\\taskreminder\\platforms\\android\\androidmanifest.xml||{4E01A4BC-CFCF-452C-8C08-51352512D197}",
+      "RelativeMoniker": "D:0:0:{8C3EDADC-ADD2-4698-BE06-B20DCCBC6B1F}|TaskReminder\\TaskReminder.csproj|solutionrelative:taskreminder\\platforms\\android\\androidmanifest.xml||{4E01A4BC-CFCF-452C-8C08-51352512D197}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C3EDADC-ADD2-4698-BE06-B20DCCBC6B1F}|TaskReminder\\TaskReminder.csproj|c:\\users\\felipe\\documents\\apps\\taskreminder\\taskreminder\\taskreminder.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8C3EDADC-ADD2-4698-BE06-B20DCCBC6B1F}|TaskReminder\\TaskReminder.csproj|solutionrelative:taskreminder\\taskreminder.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C3EDADC-ADD2-4698-BE06-B20DCCBC6B1F}|TaskReminder\\TaskReminder.csproj|c:\\users\\felipe\\documents\\apps\\taskreminder\\taskreminder\\resources\\splash\\splash.svg||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{8C3EDADC-ADD2-4698-BE06-B20DCCBC6B1F}|TaskReminder\\TaskReminder.csproj|solutionrelative:taskreminder\\resources\\splash\\splash.svg||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C3EDADC-ADD2-4698-BE06-B20DCCBC6B1F}|TaskReminder\\TaskReminder.csproj|c:\\users\\felipe\\documents\\apps\\taskreminder\\taskreminder\\platforms\\android\\resources\\values\\colors.xml||{6B79B2C4-8503-4A04-8248-ADCEF2B49CB1}",
+      "RelativeMoniker": "D:0:0:{8C3EDADC-ADD2-4698-BE06-B20DCCBC6B1F}|TaskReminder\\TaskReminder.csproj|solutionrelative:taskreminder\\platforms\\android\\resources\\values\\colors.xml||{6B79B2C4-8503-4A04-8248-ADCEF2B49CB1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C3EDADC-ADD2-4698-BE06-B20DCCBC6B1F}|TaskReminder\\TaskReminder.csproj|c:\\users\\felipe\\documents\\apps\\taskreminder\\taskreminder\\newtask.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8C3EDADC-ADD2-4698-BE06-B20DCCBC6B1F}|TaskReminder\\TaskReminder.csproj|solutionrelative:taskreminder\\newtask.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C3EDADC-ADD2-4698-BE06-B20DCCBC6B1F}|TaskReminder\\TaskReminder.csproj|c:\\users\\felipe\\documents\\apps\\taskreminder\\taskreminder\\resources\\styles\\styles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8C3EDADC-ADD2-4698-BE06-B20DCCBC6B1F}|TaskReminder\\TaskReminder.csproj|solutionrelative:taskreminder\\resources\\styles\\styles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C3EDADC-ADD2-4698-BE06-B20DCCBC6B1F}|TaskReminder\\TaskReminder.csproj|c:\\users\\felipe\\documents\\apps\\taskreminder\\taskreminder\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C3EDADC-ADD2-4698-BE06-B20DCCBC6B1F}|TaskReminder\\TaskReminder.csproj|solutionrelative:taskreminder\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C3EDADC-ADD2-4698-BE06-B20DCCBC6B1F}|TaskReminder\\TaskReminder.csproj|c:\\users\\felipe\\documents\\apps\\taskreminder\\taskreminder\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8C3EDADC-ADD2-4698-BE06-B20DCCBC6B1F}|TaskReminder\\TaskReminder.csproj|solutionrelative:taskreminder\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Felipe\\.nuget\\packages\\microsoft.maui.core\\10.0.0-preview.3.25208.1\\buildTransitive\\Microsoft.Maui.Core.After.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C3EDADC-ADD2-4698-BE06-B20DCCBC6B1F}|TaskReminder\\TaskReminder.csproj|c:\\users\\felipe\\documents\\apps\\taskreminder\\taskreminder\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C3EDADC-ADD2-4698-BE06-B20DCCBC6B1F}|TaskReminder\\TaskReminder.csproj|solutionrelative:taskreminder\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C3EDADC-ADD2-4698-BE06-B20DCCBC6B1F}|TaskReminder\\TaskReminder.csproj|c:\\users\\felipe\\documents\\apps\\taskreminder\\taskreminder\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8C3EDADC-ADD2-4698-BE06-B20DCCBC6B1F}|TaskReminder\\TaskReminder.csproj|solutionrelative:taskreminder\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C3EDADC-ADD2-4698-BE06-B20DCCBC6B1F}|TaskReminder\\TaskReminder.csproj|c:\\users\\felipe\\documents\\apps\\taskreminder\\taskreminder\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C3EDADC-ADD2-4698-BE06-B20DCCBC6B1F}|TaskReminder\\TaskReminder.csproj|solutionrelative:taskreminder\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C3EDADC-ADD2-4698-BE06-B20DCCBC6B1F}|TaskReminder\\TaskReminder.csproj|c:\\users\\felipe\\documents\\apps\\taskreminder\\taskreminder\\platforms\\ios\\appdelegate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C3EDADC-ADD2-4698-BE06-B20DCCBC6B1F}|TaskReminder\\TaskReminder.csproj|solutionrelative:taskreminder\\platforms\\ios\\appdelegate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C3EDADC-ADD2-4698-BE06-B20DCCBC6B1F}|TaskReminder\\TaskReminder.csproj|c:\\users\\felipe\\documents\\apps\\taskreminder\\taskreminder\\platforms\\ios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C3EDADC-ADD2-4698-BE06-B20DCCBC6B1F}|TaskReminder\\TaskReminder.csproj|solutionrelative:taskreminder\\platforms\\ios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C3EDADC-ADD2-4698-BE06-B20DCCBC6B1F}|TaskReminder\\TaskReminder.csproj|c:\\users\\felipe\\documents\\apps\\taskreminder\\taskreminder\\resources\\styles\\colors.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8C3EDADC-ADD2-4698-BE06-B20DCCBC6B1F}|TaskReminder\\TaskReminder.csproj|solutionrelative:taskreminder\\resources\\styles\\colors.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{35a13b2b-183b-3ec5-a509-0bd77da1a60c}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Felipe\\Documents\\Apps\\TaskReminder\\TaskReminder\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "TaskReminder\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Felipe\\Documents\\Apps\\TaskReminder\\TaskReminder\\MainPage.xaml.cs",
+              "RelativeToolTip": "TaskReminder\\MainPage.xaml.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAMwBQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T17:12:16.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NewTask.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Felipe\\Documents\\Apps\\TaskReminder\\TaskReminder\\NewTask.xaml.cs",
+              "RelativeDocumentMoniker": "TaskReminder\\NewTask.xaml.cs",
+              "ToolTip": "C:\\Users\\Felipe\\Documents\\Apps\\TaskReminder\\TaskReminder\\NewTask.xaml.cs",
+              "RelativeToolTip": "TaskReminder\\NewTask.xaml.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAnwGkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T14:00:08.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NotificationService.cs",
+              "DocumentMoniker": "C:\\Users\\Felipe\\Documents\\Apps\\TaskReminder\\TaskReminder\\Classes\\NotificationService.cs",
+              "RelativeDocumentMoniker": "TaskReminder\\Classes\\NotificationService.cs",
+              "ToolTip": "C:\\Users\\Felipe\\Documents\\Apps\\TaskReminder\\TaskReminder\\Classes\\NotificationService.cs",
+              "RelativeToolTip": "TaskReminder\\Classes\\NotificationService.cs",
+              "ViewState": "AgIAAKwAAAAAAAAAAAAnwL0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T12:39:11.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainApplication.cs",
+              "DocumentMoniker": "C:\\Users\\Felipe\\Documents\\Apps\\TaskReminder\\TaskReminder\\Platforms\\Android\\MainApplication.cs",
+              "RelativeDocumentMoniker": "TaskReminder\\Platforms\\Android\\MainApplication.cs",
+              "ToolTip": "C:\\Users\\Felipe\\Documents\\Apps\\TaskReminder\\TaskReminder\\Platforms\\Android\\MainApplication.cs",
+              "RelativeToolTip": "TaskReminder\\Platforms\\Android\\MainApplication.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T22:26:55.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AndroidManifest.xml",
+              "DocumentMoniker": "C:\\Users\\Felipe\\Documents\\Apps\\TaskReminder\\TaskReminder\\Platforms\\Android\\AndroidManifest.xml",
+              "RelativeDocumentMoniker": "TaskReminder\\Platforms\\Android\\AndroidManifest.xml",
+              "ToolTip": "C:\\Users\\Felipe\\Documents\\Apps\\TaskReminder\\TaskReminder\\Platforms\\Android\\AndroidManifest.xml",
+              "RelativeToolTip": "TaskReminder\\Platforms\\Android\\AndroidManifest.xml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-04-21T16:56:26.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Felipe\\Documents\\Apps\\TaskReminder\\TaskReminder\\MainPage.xaml",
+              "RelativeDocumentMoniker": "TaskReminder\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\Felipe\\Documents\\Apps\\TaskReminder\\TaskReminder\\MainPage.xaml",
+              "RelativeToolTip": "TaskReminder\\MainPage.xaml",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAADYAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-13T17:12:12.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TaskReminder.csproj",
+              "DocumentMoniker": "C:\\Users\\Felipe\\Documents\\Apps\\TaskReminder\\TaskReminder\\TaskReminder.csproj",
+              "RelativeDocumentMoniker": "TaskReminder\\TaskReminder.csproj",
+              "ToolTip": "C:\\Users\\Felipe\\Documents\\Apps\\TaskReminder\\TaskReminder\\TaskReminder.csproj",
+              "RelativeToolTip": "TaskReminder\\TaskReminder.csproj",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAC4AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-13T17:07:12.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TaskEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Felipe\\Documents\\Apps\\TaskReminder\\TaskReminder\\Classes\\TaskEntity.cs",
+              "RelativeDocumentMoniker": "TaskReminder\\Classes\\TaskEntity.cs",
+              "ToolTip": "C:\\Users\\Felipe\\Documents\\Apps\\TaskReminder\\TaskReminder\\Classes\\TaskEntity.cs",
+              "RelativeToolTip": "TaskReminder\\Classes\\TaskEntity.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T13:37:38.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainActivity.cs",
+              "DocumentMoniker": "C:\\Users\\Felipe\\Documents\\Apps\\TaskReminder\\TaskReminder\\Platforms\\Android\\MainActivity.cs",
+              "RelativeDocumentMoniker": "TaskReminder\\Platforms\\Android\\MainActivity.cs",
+              "ToolTip": "C:\\Users\\Felipe\\Documents\\Apps\\TaskReminder\\TaskReminder\\Platforms\\Android\\MainActivity.cs",
+              "RelativeToolTip": "TaskReminder\\Platforms\\Android\\MainActivity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T22:25:56.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "splash.svg",
+              "DocumentMoniker": "C:\\Users\\Felipe\\Documents\\Apps\\TaskReminder\\TaskReminder\\Resources\\Splash\\splash.svg",
+              "RelativeDocumentMoniker": "TaskReminder\\Resources\\Splash\\splash.svg",
+              "ToolTip": "C:\\Users\\Felipe\\Documents\\Apps\\TaskReminder\\TaskReminder\\Resources\\Splash\\splash.svg",
+              "RelativeToolTip": "TaskReminder\\Resources\\Splash\\splash.svg",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAGAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAKMSURBVDhPjZNLSFRhFMd/3507M/dKPsacsYelWGZZFFJRkdSmNrUoatMiKggSN2YFEUX3MvQiiBYWtFAyggoXPSGyhQuhFrXQFr7GMFOowcZMUO9MM3pPi9Eao6gf/Bcfh3PO/5yPo8jAsqxI5vtvKKXuhMPhK4jInIBlWRH5Bw0NDYOWZUVs264B0DILKEUXCCIpZOIi7uetpHpCxN8GiffU4rrThEIhXzgcXiEidbZtH/5ZQKTV\u002B72oItjSYfG5vxwneoX2/iW80dvxb4ji9D4BIBAIeBsbG4fSOXJWzSR7qpt9D\u002BvWndpTlNXL2HCQ28PXaIuVEB2Dmsp8DiZqyN35FAFiw19IJpPcbmrq0wCq7\u002BvHd5Y\u002B2rMy5y3OcBXmqtccq9rB/uUFKI/GzfZRPhRdBhEQIRgKUlxSAoAm0uqtWNB5Yu\u002Bier5\u002BWOoWbnxAwAwQzDao3lLIobX5ePxemiImroCIzFm\u002BztT7/CPLzi8ej\u002BVxdeyu1nJjgMR3FwDl0fD4dJRHozuWACStjM/TGDlZ50tNqHuxejo\u002B\u002BZPL8wwqCvxUFPhZFfBSbIBMJti0wJjpDpJRQXfjzr6uj9u\u002BtYysCWijA4OPqzeXpVLJtE010zS9cZDM1DTa9ASLmoaOnh4cEYaySsoa30T5Mp5kPD7Ni\u002B5Rtt7qofzqO553jqQHmHExi5p8RcRNsb6y7VWtnm1ecjUdcdM7QClwhQPl8zi3o\u002BiXdREMMwvbtvv0KYfmRJSBtvlVY93O6ujLlc8WdsYcdE1RmutlV3kO20tzcXFRohBFerQ/ccE6c11EJB53xIk7EndmNSnObxIRsSwrMucWUvh2AxiGiWmYGOassjB/0yxzzPzvOWfyAyvlXYiiBFoWAAAAAElFTkSuQmCC",
+              "WhenOpened": "2025-04-21T16:28:24.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "colors.xml",
+              "DocumentMoniker": "C:\\Users\\Felipe\\Documents\\Apps\\TaskReminder\\TaskReminder\\Platforms\\Android\\Resources\\values\\colors.xml",
+              "RelativeDocumentMoniker": "TaskReminder\\Platforms\\Android\\Resources\\values\\colors.xml",
+              "ToolTip": "C:\\Users\\Felipe\\Documents\\Apps\\TaskReminder\\TaskReminder\\Platforms\\Android\\Resources\\values\\colors.xml",
+              "RelativeToolTip": "TaskReminder\\Platforms\\Android\\Resources\\values\\colors.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-04-21T16:04:17.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "NewTask.xaml",
+              "DocumentMoniker": "C:\\Users\\Felipe\\Documents\\Apps\\TaskReminder\\TaskReminder\\NewTask.xaml",
+              "RelativeDocumentMoniker": "TaskReminder\\NewTask.xaml",
+              "ToolTip": "C:\\Users\\Felipe\\Documents\\Apps\\TaskReminder\\TaskReminder\\NewTask.xaml",
+              "RelativeToolTip": "TaskReminder\\NewTask.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-18T13:59:42.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Microsoft.Maui.Core.After.targets",
+              "DocumentMoniker": "C:\\Users\\Felipe\\.nuget\\packages\\microsoft.maui.core\\10.0.0-preview.3.25208.1\\buildTransitive\\Microsoft.Maui.Core.After.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\.nuget\\packages\\microsoft.maui.core\\10.0.0-preview.3.25208.1\\buildTransitive\\Microsoft.Maui.Core.After.targets",
+              "ToolTip": "C:\\Users\\Felipe\\.nuget\\packages\\microsoft.maui.core\\10.0.0-preview.3.25208.1\\buildTransitive\\Microsoft.Maui.Core.After.targets",
+              "RelativeToolTip": "..\\..\\..\\.nuget\\packages\\microsoft.maui.core\\10.0.0-preview.3.25208.1\\buildTransitive\\Microsoft.Maui.Core.After.targets",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAwBQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-04-21T14:47:37.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Felipe\\Documents\\Apps\\TaskReminder\\TaskReminder\\App.xaml",
+              "RelativeDocumentMoniker": "TaskReminder\\App.xaml",
+              "ToolTip": "C:\\Users\\Felipe\\Documents\\Apps\\TaskReminder\\TaskReminder\\App.xaml",
+              "RelativeToolTip": "TaskReminder\\App.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-13T17:10:06.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Styles.xaml",
+              "DocumentMoniker": "C:\\Users\\Felipe\\Documents\\Apps\\TaskReminder\\TaskReminder\\Resources\\Styles\\Styles.xaml",
+              "RelativeDocumentMoniker": "TaskReminder\\Resources\\Styles\\Styles.xaml",
+              "ToolTip": "C:\\Users\\Felipe\\Documents\\Apps\\TaskReminder\\TaskReminder\\Resources\\Styles\\Styles.xaml",
+              "RelativeToolTip": "TaskReminder\\Resources\\Styles\\Styles.xaml",
+              "ViewState": "AgIAADsAAAAAAAAAAAAAwEcAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-13T18:02:33.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\Felipe\\Documents\\Apps\\TaskReminder\\TaskReminder\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "TaskReminder\\MauiProgram.cs",
+              "ToolTip": "C:\\Users\\Felipe\\Documents\\Apps\\TaskReminder\\TaskReminder\\MauiProgram.cs",
+              "RelativeToolTip": "TaskReminder\\MauiProgram.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA4wBcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T17:12:20.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Felipe\\Documents\\Apps\\TaskReminder\\TaskReminder\\App.xaml.cs",
+              "RelativeDocumentMoniker": "TaskReminder\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\Felipe\\Documents\\Apps\\TaskReminder\\TaskReminder\\App.xaml.cs",
+              "RelativeToolTip": "TaskReminder\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T17:10:38.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\Felipe\\Documents\\Apps\\TaskReminder\\TaskReminder\\AppShell.xaml",
+              "RelativeDocumentMoniker": "TaskReminder\\AppShell.xaml",
+              "ToolTip": "C:\\Users\\Felipe\\Documents\\Apps\\TaskReminder\\TaskReminder\\AppShell.xaml",
+              "RelativeToolTip": "TaskReminder\\AppShell.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-13T17:11:44.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AppDelegate.cs",
+              "DocumentMoniker": "C:\\Users\\Felipe\\Documents\\Apps\\TaskReminder\\TaskReminder\\Platforms\\iOS\\AppDelegate.cs",
+              "RelativeDocumentMoniker": "TaskReminder\\Platforms\\iOS\\AppDelegate.cs",
+              "ToolTip": "C:\\Users\\Felipe\\Documents\\Apps\\TaskReminder\\TaskReminder\\Platforms\\iOS\\AppDelegate.cs",
+              "RelativeToolTip": "TaskReminder\\Platforms\\iOS\\AppDelegate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T22:33:00.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AppShell.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Felipe\\Documents\\Apps\\TaskReminder\\TaskReminder\\AppShell.xaml.cs",
+              "RelativeDocumentMoniker": "TaskReminder\\AppShell.xaml.cs",
+              "ToolTip": "C:\\Users\\Felipe\\Documents\\Apps\\TaskReminder\\TaskReminder\\AppShell.xaml.cs",
+              "RelativeToolTip": "TaskReminder\\AppShell.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T17:11:54.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Colors.xaml",
+              "DocumentMoniker": "C:\\Users\\Felipe\\Documents\\Apps\\TaskReminder\\TaskReminder\\Resources\\Styles\\Colors.xaml",
+              "RelativeDocumentMoniker": "TaskReminder\\Resources\\Styles\\Colors.xaml",
+              "ToolTip": "C:\\Users\\Felipe\\Documents\\Apps\\TaskReminder\\TaskReminder\\Resources\\Styles\\Colors.xaml",
+              "RelativeToolTip": "TaskReminder\\Resources\\Styles\\Colors.xaml",
+              "ViewState": "AgIAAAwAAAAAAAAAAIBJwAgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-13T18:02:57.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Felipe\\Documents\\Apps\\TaskReminder\\TaskReminder\\Platforms\\iOS\\Program.cs",
+              "RelativeDocumentMoniker": "TaskReminder\\Platforms\\iOS\\Program.cs",
+              "ToolTip": "C:\\Users\\Felipe\\Documents\\Apps\\TaskReminder\\TaskReminder\\Platforms\\iOS\\Program.cs",
+              "RelativeToolTip": "TaskReminder\\Platforms\\iOS\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T22:33:03.869Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

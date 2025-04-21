@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TaskReminder.NewTask"
+             Title="Gerenciar Task">
+
+    <ScrollView>
+        <VerticalStackLayout Padding="20">
+            <!-- Nome -->
+            <Label Text="Nome" />
+            <Entry x:Name="NameEntry" Placeholder="Digite o nome da tarefa" />
+
+            <!-- Descrição -->
+            <Label Text="Descrição" />
+            <Editor x:Name="DescriptionEditor" Placeholder="Digite a descrição da tarefa" HeightRequest="100" />
+
+            <!-- Tipo de Tarefa -->
+            <Label Text="Tipo de Tarefa" />
+            <RadioButton Content="Diário" GroupName="TaskTypeGroup" Value="0" x:Name="DailyRadioButton" CheckedChanged="Checked_Change" />
+            <RadioButton Content="Dias Específicos" GroupName="TaskTypeGroup" Value="1" x:Name="SpecificDaysRadioButton" CheckedChanged="Checked_Change"/>
+            <RadioButton Content="Apenas 1 Vez" IsChecked="True" GroupName="TaskTypeGroup" Value="2" x:Name="OneTimeRadioButton" CheckedChanged="Checked_Change" />
+
+            <!-- Data -->
+            <Label x:Name="LblDate" Text="Data" />
+            <DatePicker Format="dd/MM/yyyy" x:Name="OneTimeDatePicker" />
+
+            <!-- Horário Diário -->
+            <Label x:Name="LblTime" Text="Horário" />
+            <TimePicker x:Name="EveryDayTimePicker" />
+
+            <!-- Dias da Semana -->
+            <Label x:Name="LblWeekDays" IsVisible="False" Text="Dias da Semana" />
+            <FlexLayout x:Name="FlWeekDays" IsVisible="False" Wrap="Wrap" JustifyContent="Start">
+                <CheckBox x:Name="SundayCheckBox" />
+                <Label Text="Dom" VerticalOptions="Center" />
+
+                <CheckBox x:Name="MondayCheckBox" />
+                <Label Text="Seg" VerticalOptions="Center" />
+
+                <CheckBox x:Name="TuesdayCheckBox" />
+                <Label Text="Ter" VerticalOptions="Center" />
+
+                <CheckBox x:Name="WednesdayCheckBox" />
+                <Label Text="Qua" VerticalOptions="Center" />
+
+                <CheckBox x:Name="ThursdayCheckBox" />
+                <Label Text="Qui" VerticalOptions="Center" />
+
+                <CheckBox x:Name="FridayCheckBox" />
+                <Label Text="Sex" VerticalOptions="Center" />
+
+                <CheckBox x:Name="SaturdayCheckBox" />
+                <Label Text="Sáb" VerticalOptions="Center" />
+            </FlexLayout>
+
+            <!-- Botão Salvar -->
+            <Button x:Name="BtnSave" Text="Salvar" Clicked="BtnSave_Clicked" />
+        </VerticalStackLayout>
+    </ScrollView>
+
+</ContentPage>

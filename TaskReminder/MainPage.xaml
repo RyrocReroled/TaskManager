@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TaskReminder.MainPage">
+
+        <ScrollView>
+        <VerticalStackLayout Padding="20">
+
+            <!-- Topo com título e botão -->
+            <Grid ColumnDefinitions="*, Auto" VerticalOptions="Center">
+                <Label Text="Minhas Tasks"
+                   FontSize="Large"
+                   VerticalOptions="Center"
+                   HorizontalOptions="Start" />
+
+                <Button x:Name="BtnNewTask" Text="+"
+                    WidthRequest="50"
+                    HeightRequest="50"
+                    CornerRadius="25"
+                    BackgroundColor="Black"
+                    TextColor="White"
+                    FontSize="22"
+                    FontAttributes="Bold"
+                    HorizontalOptions="End"
+                    VerticalOptions="Center"
+                    Clicked="BtnNewTask_Clicked"/>
+            </Grid>
+            <Label 
+                x:Name="LblEmptyMessage" 
+                IsVisible="False" 
+                Text="Sua lista de tarefas ainda está vazia."
+                FontSize="Medium"/>
+            <CollectionView x:Name="TaskCollectionView">
+                <CollectionView.ItemTemplate>
+                    <DataTemplate>
+                        <Frame x:Name="FMBox" BorderColor="Gray" Margin="10" Padding="10" CornerRadius="10">
+                            <Frame.GestureRecognizers>
+                                <TapGestureRecognizer
+                                Tapped="TapGestureRecognizer_Tapped"
+                                CommandParameter="{Binding Name}"
+                                NumberOfTapsRequired="1" />
+                            </Frame.GestureRecognizers>
+                            <VerticalStackLayout>
+                                <!-- Botão de Remover no canto superior esquerdo -->
+               
+                                <ImageButton 
+                                     x:Name="BtnDelete" 
+                                     Source="delete.svg"
+                                     BackgroundColor="Transparent"
+                                     WidthRequest="24"
+                                     HeightRequest="24"
+                                     HorizontalOptions="End"
+                                     VerticalOptions="Start"
+                                     Clicked="BtnDelete_Clicked"
+                                     CommandParameter="{Binding Name}"
+                                     Padding="0"
+                                     />
+                                <Label Text="{Binding Name}" 
+                                   FontSize="20"
+                                   FontAttributes="Bold" />
+                                 <Label Text="{Binding Description}" 
+                                   FontSize="16"
+                                   TextColor="Gray" />
+                                    
+                                 
+                                </VerticalStackLayout>
+                            </Frame>
+                        </DataTemplate>
+                    </CollectionView.ItemTemplate>
+                </CollectionView>
+
+        </VerticalStackLayout>
+        </ScrollView>
+
+</ContentPage>
